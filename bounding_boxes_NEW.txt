@@ -1,0 +1,11 @@
+NEW BOUNDING BOXES
+
+
+A: latitude (4 -> -12), longitude (104 -> 122)
+
+B: latitude (-3 -> -7), longitude (195 -> 201)
+
+C: latitude (14 -> -2), longitude (298 -> 316)	
+
+
+load data in python
