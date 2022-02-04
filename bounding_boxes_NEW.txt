@@ -7,7 +7,7 @@ B: latitude (-3 -> -7), longitude (195 -> 201)
 
 C: latitude (14 -> -2), longitude (298 -> 316)	
 
-D: latitude (2 -> -14), longitude (198- > 208) **REPLACEMENT FOR BOX B**
+D: latitude (-2 -> -14), longitude (116- > 128) **REPLACEMENT FOR BOX B**
 
 E: latitude (-9 -> -16), longitude (348 -> 356) **extra in case**
 
