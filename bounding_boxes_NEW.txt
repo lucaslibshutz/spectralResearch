@@ -11,6 +11,4 @@ D: latitude (-2 -> -14), longitude (116- > 128) **REPLACEMENT FOR BOX B**
 
 E: latitude (-9 -> -16), longitude (348 -> 356) **extra in case**
 
-F: latitude (-18 -> -1), longitude (196 -> 216)
-
 load data in python
